@@ -1,0 +1,16 @@
+.box{
+    display: inline;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 5px;
+}
+
+.box1{
+    height: 300px;
+    width: 50%;
+    display: none;
+}
+
+.box:hover {
+    background-color: red;
+}
